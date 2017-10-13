@@ -1,0 +1,3 @@
+adb reverse tcp:8081 tcp:8081
+
+gajendra@gajendra-HP-Notebook:~/Desktop/watchman/flow/AwesomeProject$ react-native run-android
